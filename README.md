@@ -90,11 +90,11 @@ To run the project, open index.html in your web browser.
 ## 👥 Author <a name="author"></a>
 
 
-👤 **Anthony Martin**
+👤 **Alex Wambua**
 
-- GitHub: [@githubhandle](https://github.com/anthonymr)
-- Twitter: [@twitterhandle](https://twitter.com/anthonymr)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/anthonymr)
+- GitHub: [@githubhandle](https://github.com/major0001)
+- Twitter: [@twitterhandle](https://twitter.com/major_blesking)
+- LinkedIn: [Instagram](https://instagram.com/69_philosopher)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -133,8 +133,8 @@ If you like this project, please, share it with your friends.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-Original design idea by **Cindy Shin** in Behance.
-Thank you very much [Cindy](https://www.behance.net/adagio07).
+Original design idea by **Alex** in **The-Great-Coders**.
+Thank you very much [Alex Wambua](web.realcontrolandpower.tech).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
